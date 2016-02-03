@@ -12,7 +12,7 @@ public class test {
     	String[] b={"a","b","c"};
     	
     	System.out.println(a[2]);
-    	System.out.println(333);
+    	System.out.println(String.valueOf(123));
     }
 
 }
